@@ -17,8 +17,8 @@
 ## Installation
 
 ```sh
-git clone https://github.com/MaryamBoneh/Vehicle-Detection
-cd Vehicle-Detection
+git clone https://github.com/rishavraj068/vehicle-surveillance-system
+cd vehicle-surveillance-system
 pip install -r requirements.txt
 ```
 
@@ -35,8 +35,8 @@ Test : 10%
 
 ## Clone Vehicle-Detection Repository
 ```
-git clone https://github.com/MaryamBoneh/Vehicle-Detection
-cd Vehicle-Detection
+git clone https://github.com/rishavraj068/vehicle-surveillance-system
+cd vehicle-surveillance-system
 pip install -r requirements.txt
 ```
 
@@ -75,7 +75,7 @@ https://b2n.ir/vehicleDataset
 
 ## Contributing
 
-1. Fork it (<https://github.com/MaryamBoneh/Vehicle-Detection>)
+1. Fork it (<https://github.com/rishavraj068/vehicle-surveillance-system>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
